@@ -1,0 +1,4 @@
+.sweet_state.json
+results.csv
+__pycache__/
+*.pyc
